@@ -1,0 +1,23 @@
+.cherryfont {
+    font-family: 'Cherry Bomb One', serif;
+    }
+
+
+    body, html {
+        margin: 0;
+        padding: 0;
+        height: 100%;
+    }
+    
+    .container {
+        height: 100%;
+        background-image: linear-gradient(#1f8c6f, #3399b8);
+        text-align: center;
+        /* Other container styling */
+    }
+
+    h1{
+
+        font-size: 100px;
+    }
+    
