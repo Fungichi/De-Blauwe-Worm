@@ -6,19 +6,24 @@
     body, html {
         margin: 0;
         padding: 0;
-        height: 100%;
+        
     }
     
     .container {
-        height: 100%;
-        background-image: linear-gradient(#1f8c6f, #3399b8);
+        
+        background-color:#263849;
         text-align: center;
+        height: 100%;
         /* Other container styling */
     }
 
     h1{
 
         font-size: 100px;
+        color: #35bcbf;
+    }
+    a{
+      color: 	#008080
     }
     
     
@@ -28,10 +33,23 @@
       
       td {
         padding: 10px;
-        background-color: white;
+        background-color: #41506b;
         border-radius: 5px;
-        border: 1px solid black;
+        border: 2px solid #90f6d7 ;
         margin: 100px;
+      }
+      .link-list{
+        display: block;
+      }
+      .link{
+      
+        padding: 10px;
+        background-color: #41506b;
+        border-radius: 5px;
+        border: 2px solid #90f6d7 ;
+        margin: 30px;
+
+
       }
       .downbutton {
         background-color:#55c2a3;
@@ -57,3 +75,19 @@
       color:azure;
     }
             
+/* .first-color { 
+	background: #90f6d7; 
+}
+	
+.second-color { 
+	background: #35bcbf; 
+}
+
+.third-color { 
+	background: #41506b; 
+}
+
+.fourth-color { 
+	background: #263849; 
+}
+*/ 
