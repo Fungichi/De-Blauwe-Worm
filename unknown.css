@@ -1,0 +1,93 @@
+.cherryfont {
+    font-family: 'Cherry Bomb One', serif;
+    }
+
+
+    body, html {
+        margin: 0;
+        padding: 0;
+        
+    }
+    
+    .container {
+        
+        background-color:#263849;
+        text-align: center;
+        height: 100%;
+        /* Other container styling */
+    }
+
+    h1{
+
+        font-size: 100px;
+        color: #35bcbf;
+    }
+    a{
+      color: 	#008080
+    }
+    
+    
+      table {
+        margin: 0 auto;
+      }
+      
+      td {
+        padding: 10px;
+        background-color: #41506b;
+        border-radius: 5px;
+        border: 2px solid #90f6d7 ;
+        margin: 100px;
+      }
+      .link-list{
+        display: block;
+      }
+      .link{
+      
+        padding: 10px;
+        background-color: #41506b;
+        border-radius: 5px;
+        border: 2px solid #90f6d7 ;
+        margin: 30px;
+
+
+      }
+      .downbutton {
+        background-color:#55c2a3;
+        border-radius:28px;
+        border:1px solid #8aeb94;
+        display:inline-block;
+        cursor:pointer;
+        color:#ffffff;
+        font-family:Cherry Bomb One;
+        font-size:17px;
+        padding:15px 10px;
+        text-decoration:none;
+        text-shadow:0px 1px 0px #000000;
+    }
+    .downbutton:hover {
+        background-color:#4287f5;
+    }
+    .downbutton:active {
+        position:relative;
+        top:1px;
+    }
+    h3{
+      color:azure;
+    }
+            
+/* .first-color { 
+	background: #90f6d7; 
+}
+	
+.second-color { 
+	background: #35bcbf; 
+}
+
+.third-color { 
+	background: #41506b; 
+}
+
+.fourth-color { 
+	background: #263849; 
+}
+*/ 
